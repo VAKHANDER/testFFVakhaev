@@ -31,6 +31,7 @@ equals & hashCode для правильной работы структур, г�
 **Пример 1 (тестовый пример из файла):**
 
 ![image](https://github.com/user-attachments/assets/d839d717-d25a-471e-a2f9-533291246f32)
+
 **Пример 2:**
 
 ![image](https://github.com/user-attachments/assets/47182cd4-116c-4986-9fff-eaa5ddf79e68)
